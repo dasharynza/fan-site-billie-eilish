@@ -17,7 +17,7 @@ h1{
 
 h1 span {
     font-size: 100px;
-    color: #ffffff;
+    color: #FBFAF5;
 }
 h2{
     font-size: 30px;
@@ -31,7 +31,7 @@ h3{
 }
 
 ol li::marker{
-    color: #ffffff;
+    color: #FBFAF5;
 }
 
 .gallery {
@@ -103,7 +103,7 @@ aside{
     padding: 25px;
     background: #022f56;
     border-radius: 30px;
-    color: #ffffff;
+    color: #FBFAF5;
 }
 
 a{
@@ -120,13 +120,13 @@ ol li::marker{
 }
 
 ul {
-    color: #ffffff;
+    color: #FBFAF5;
 }
 
 section {
     min-height: 50px;
     color: #000000;
-    background: #ffffff;
+    background: #FBFAF5;
     margin: 0 auto 15px;
     padding: 25px;
     border-radius: 50px;
@@ -136,7 +136,7 @@ section {
 }
 
 article{
-    background: #ffffff;
+    background: #FBFAF5;
     margin: 0 auto 15px;
     padding: 25px;
     border-radius: 50px;
